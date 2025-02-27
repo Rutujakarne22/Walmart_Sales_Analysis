@@ -18,9 +18,11 @@ I utilize Python for data cleaning ,processing and SQL for analysis and advanced
 **Project Steps**
 
 
+
 **1. Set Up the Environment**
 
 Tools Used:Python,Jupyter notebook, MySQL workbench
+
 
 
 **2.API Setup** 
@@ -33,15 +35,19 @@ Place the downloaded kaggle.json file in your local .kaggle folder.
 Use the command kaggle datasets download -d <dataset-path> to pull datasets directly into your project.
 
 
+
+
 **3.Load Data**
 
 Loading Data:
 Read the data into a Pandas DataFrame for initial analysis and transformations
 
 
+
 **4.Explore the Data**
 
  Use functions like .info(),  and .head() to get a quick overview of the data structure .
+
 
 
 **5.Data Cleaning**
@@ -57,16 +63,19 @@ Read the data into a Pandas DataFrame for initial analysis and transformations
 5) Validation: Check for any remaining inconsistencies and verify the cleaned data.
 
 
+
 **6.Feature Engineering**
 
 Create New Columns: 
 Calculate the Total_sales,Profit and date realted columns.
 
 
+
 **7.Load Data into MySQL**
 
 Set Up Connections: Connect to MySQL using Pymysql and load the cleaned data into database.
 Table Creation: Create and insert the data into MySQL using pymysql.
+
 
 
 **8.SQL Analysis**
@@ -82,13 +91,19 @@ Business Problem-Solving: Write and execute complex SQL queries to answer critic
 4)Analyzing peak sales periods and customer buying patterns.
 
 
+
 **9.Requirements**
 
 Python 3
+
 Jupyter notebook
+
 SQL Databases: MySQL
+
 Python Libraries:pandas, numpy,Pymysql
+
 Kaggle API Key (for data downloading)
+
 
 
 
@@ -96,7 +111,9 @@ Kaggle API Key (for data downloading)
 
 Sales Insights:
 Key categories, branches with highest sales, and preferred payment methods.
+
 Profitability: 
 Insights into the most profitable product categories and locations.
+
 Customer Behavior:
 Trends in ratings, payment preferences, and peak shopping hours.

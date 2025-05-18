@@ -6,7 +6,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 I utilize Python for data cleaning ,processing and SQL for analysis and advanced querying, and structured problem-solving techniques to solve key business questions
 
 
-## Project Architeture
+## Project Architecture
 ---
 
 ![Walmart](Walmart.png)
